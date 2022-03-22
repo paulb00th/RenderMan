@@ -1,0 +1,7 @@
+
+.DS_Store
+Builds/MacOSX/build/Debug/librenderman.so.dylib
+Builds/MacOSX/RenderMan.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+Builds/MacOSX/RenderMan.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+Builds/MacOSX/RenderMan.xcodeproj/project.xcworkspace/xcuserdata/paulbooth.xcuserdatad/UserInterfaceState.xcuserstate
+Builds/MacOSX/RenderMan.xcodeproj/xcuserdata/paulbooth.xcuserdatad/xcschemes/xcschememanagement.plist
